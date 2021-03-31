@@ -1,0 +1,64 @@
+.blue{
+    background-color: blue;
+    border: 1px solid black;
+    height: 100px;
+}
+
+.gray{
+    background-color: gray;
+    border: 1px solid black;
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+
+
+
+.pink{
+    background-color: pink;
+    border: 1px solid black;
+    height: 100px;
+    float: left;
+}
+
+.rreshti2{
+    height: 100px;
+}
+
+
+.red{
+    height: 150px;
+    background-color: red;
+}
+
+.blue1{
+    height: 400px;
+    background-color: blue;
+}
+
+.right{
+    height: 400px;
+}
+
+.green{
+    height: 200px;
+    background-color: green;
+    
+}
+
+.purple-right{
+    height: 200px;
+    /* width: 270px; */
+    background-color: purple;
+    float: right;
+    margin-left: 0px;
+}
+
+.purple-left{
+    height: 200px;
+    /* width: 270px; */
+    background-color: purple;
+    float: left;
+
+}
+
